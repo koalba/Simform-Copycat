@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Assemble the right team</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="75.4765625%" y1="91.8652344%" x2="23.3007812%" y2="9.76367188%" id="linearGradient-1">
+            <stop stop-color="#A48CF6" offset="0%"></stop>
+            <stop stop-color="#D1C5FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-10.0%" y="-15.0%" width="120.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-V2-Copy" transform="translate(-38.000000, -290.000000)">
+            <g id="Assemble-the-right-team" transform="translate(38.000000, 290.000000)">
+                <g id="Assemble-Team">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="25" cy="25" r="25"></circle>
+                    <path d="M11,17 L39,17 C39.5522847,17 40,17.4477153 40,18 L40,36 C40,36.5522847 39.5522847,37 39,37 L11,37 C10.4477153,37 10,36.5522847 10,36 L10,18 C10,17.4477153 10.4477153,17 11,17 Z" id="Rectangle" fill-opacity="0.5" fill="#8C6CF9" filter="url(#filter-2)"></path>
+                    <g id="Group-10" transform="translate(9.333333, 14.583333)">
+                        <path d="M1.66666667,0.416666667 L29.6666667,0.416666667 C30.2189514,0.416666667 30.6666667,0.864381917 30.6666667,1.41666667 L30.6666667,19.4166667 C30.6666667,19.9689514 30.2189514,20.4166667 29.6666667,20.4166667 L1.66666667,20.4166667 C1.11438192,20.4166667 0.666666667,19.9689514 0.666666667,19.4166667 L0.666666667,1.41666667 C0.666666667,0.864381917 1.11438192,0.416666667 1.66666667,0.416666667 Z" id="Rectangle" fill="#FFFFFF"></path>
+                        <g id="group-(1)" transform="translate(7.666667, 6.416667)">
+                            <path d="M11,8.31369099 C11,6.48358999 9.65685425,5 8,5 C6.34314575,5 5,6.48358999 5,8.31369099 C5,9.23889711 11,9.21858588 11,8.31369099 Z" id="Oval" fill="#9884DB" opacity="0.702473958"></path>
+                            <path d="M16,7.48526824 C16,6.11269249 14.7590199,5 13.2281933,5 C12.3849452,5 11.9914611,5.25259496 12.0001404,5.78530273 C12.0072175,6.21966894 12.3533213,6.86876885 12.3533213,7.48526824 C12.3533213,8.17917283 16,8.16393941 16,7.48526824 Z" id="Oval" fill="#9884DB" opacity="0.702473958"></path>
+                            <path d="M4,7.48526824 C4,6.11269249 2.75901985,5 1.22819326,5 C0.384945232,5 -0.00853888596,5.25259496 0.000140424998,5.78530273 C0.00721747466,6.21966894 0.353321328,6.86876885 0.353321328,7.48526824 C0.353321328,8.17917283 4,8.16393941 4,7.48526824 Z" id="Oval" fill="#9884DB" opacity="0.702473958" transform="translate(2.000000, 6.500000) scale(-1, 1) translate(-2.000000, -6.500000) "></path>
+                            <circle id="Oval" fill="#9884DB" opacity="0.702473958" cx="8" cy="2" r="2"></circle>
+                            <circle id="Oval" fill="#B7A9E6" cx="12.5" cy="2.5" r="1.5"></circle>
+                            <circle id="Oval" fill="#B7A9E6" cx="3.5" cy="2.5" r="1.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

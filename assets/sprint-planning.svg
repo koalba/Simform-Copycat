@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Sprint planning</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="75.4765625%" y1="91.8652344%" x2="23.3007812%" y2="9.76367188%" id="linearGradient-1">
+            <stop stop-color="#85C26A" offset="0%"></stop>
+            <stop stop-color="#CCF5BA" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-10.0%" y="-15.0%" width="120.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-V2-Copy" transform="translate(-118.000000, -290.000000)">
+            <g id="Sprint-planning" transform="translate(118.000000, 290.000000)">
+                <g id="Sprint-Planning">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="25" cy="25" r="25"></circle>
+                    <path d="M11,17 L39,17 C39.5522847,17 40,17.4477153 40,18 L40,36 C40,36.5522847 39.5522847,37 39,37 L11,37 C10.4477153,37 10,36.5522847 10,36 L10,18 C10,17.4477153 10.4477153,17 11,17 Z" id="Rectangle" fill="#8DC774" filter="url(#filter-2)"></path>
+                    <g id="Rectangle-2" transform="translate(9.416667, 14.583333)">
+                        <path d="M1.58333333,0.416666667 L29.5833333,0.416666667 C30.1356181,0.416666667 30.5833333,0.864381917 30.5833333,1.41666667 L30.5833333,19.4166667 C30.5833333,19.9689514 30.1356181,20.4166667 29.5833333,20.4166667 L1.58333333,20.4166667 C1.03104858,20.4166667 0.583333333,19.9689514 0.583333333,19.4166667 L0.583333333,1.41666667 C0.583333333,0.864381917 1.03104858,0.416666667 1.58333333,0.416666667 Z" id="Rectangle" fill="#FFFFFF"></path>
+                        <g id="plan" transform="translate(6.208333, 3.125000)" fill="#8BC670">
+                            <g id="Group-31">
+                                <path d="M13.375,6.29166667 L14.3773804,6.29166667 C14.3773804,3.49662272 14.3773804,1.9645284 14.3773804,1.69538371 C14.3773804,1.29166667 14.3773804,1.29166667 13.9961243,1.29166667 L7.375,1.29166667 L7.375,2.29166667 L13.375,2.2972819 L13.375,6.29166667 Z" id="Path"></path>
+                                <path d="M9.37261963,13.2916667 L10.375,13.2916667 C10.375,8.49662272 10.375,5.9645284 10.375,5.69538371 C10.375,5.29166667 10.375,5.29166667 9.9937439,5.29166667 L4.375,5.29166667 L4.375,6.2972819 L9.37261963,6.2972819 L9.37261963,13.2916667 Z" id="Path" transform="translate(7.375000, 9.291667) rotate(-90.000000) translate(-7.375000, -9.291667) "></path>
+                                <rect id="Rectangle" x="0.375" y="0.291666667" width="8" height="3" rx="1"></rect>
+                                <rect id="Rectangle" x="0.375" y="11.2916667" width="8" height="3" rx="1"></rect>
+                                <rect id="Rectangle" x="10.375" y="5.29166667" width="8" height="3" rx="1"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

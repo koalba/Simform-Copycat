@@ -1,0 +1,152 @@
+:root {
+  /* ---------- COLOR ---------- */
+
+  --white: white;
+  --black: black;
+
+  --c-main-d: rgb(61, 61, 61);
+  --c-main-l: white;
+
+  --c-accent: rgb(239, 83, 102);
+  --c-accent-l: rgb(251, 207, 213);
+  --c-sec-accent: rgb(41, 222, 213);
+
+  --c-bkg-gradient: rgb(245, 244, 255);
+  --c-bkg-gradient-2: rgb(248, 249, 255);
+
+  --c-bkg-logos: rgba(215, 233, 255, 0.15);
+
+  /* ---------- FONT ---------- */
+
+  --ff-main: "Graphik", Helvetica, sans-serif;
+
+  --ff-title: "CircularStd", Helvetica, sans-serif;
+  --ff-other: "Merriweather", serif;
+
+  --fs-200: 0.938rem; //15px
+  --fs-300: 1.188rem; //19px
+  --fs-400: 1.375rem; //22px
+  --fs-500: 1.563rem; //25px
+  --fs-600: 1.813rem; //29px
+  --fs-700: 1.875rem; //30px
+  --fs-800: 2.75rem; //44px
+  --fs-900: 3rem; //48px
+
+  /* ---------- SPACE ---------- */
+
+  --spacer-xs: 0.5rem;
+  --spacer-s: 1rem;
+  --spacer-m: 2rem;
+  --spacer-l: 3rem;
+  --spacer-xl: 4rem;
+
+  --max-width: 1100px;
+}
+
+@media screen and (max-width: 750px) {
+  :root {
+    --fs-300: 1rem;
+    --fs-400: 1.125rem;
+    --fs-500: 1.25rem;
+    --fs-600: 1.5rem;
+    --fs-700: 1.375rem;
+    --fs-800: 2.25rem;
+    --fs-900: var(--fs-800);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --white: black;
+    --black: white;
+    --c-main-d: white;
+    --c-main-l: rgb(61, 61, 61);
+  }
+}
+
+/* --------- OTHER --------- */
+
+:root {
+  /* --------- CODE --------- */
+
+  --c-code-1: rgb(247, 135, 97);
+  --b-code-1: rgb(252, 217, 195);
+  --bkg-code-1: rgb(255, 244, 237);
+
+  --c-code-2: rgb(165, 162, 113);
+  --b-code-2: rgb(231, 228, 187);
+  --bkg-code-2: rgb(255, 253, 230);
+
+  --c-code-3: rgb(237, 180, 65);
+  --b-code-3: rgb(234, 216, 178);
+  --bkg-code-3: rgb(255, 244, 220);
+
+  --c-code-4: rgb(101, 161, 210);
+  --b-code-4: rgb(184, 223, 253);
+  --bkg-code-4: rgb(221, 240, 255);
+
+  --c-code-5: rgb(105, 142, 222);
+  --b-code-5: rgb(196, 209, 234);
+  --bkg-code-5: rgb(234, 241, 255);
+
+  --c-code-6: rgb(93, 184, 107);
+  --b-code-6: rgb(182, 231, 189);
+  --bkg-code-6: rgb(229, 255, 233);
+
+  --c-code-7: rgb(136, 136, 136);
+  --b-code-7: rgb(220, 220, 220);
+  --bkg-code-7: rgb(241, 241, 241);
+
+  --c-code-8: rgb(62, 188, 182);
+  --b-code-8: rgb(181, 235, 231);
+  --bkg-code-8: rgb(227, 255, 253);
+
+  --c-code-9: rgb(154, 100, 195);
+  --b-code-9: rgb(223, 203, 238);
+  --bkg-code-9: rgb(245, 232, 255);
+
+  --c-code-10: rgb(210, 133, 133);
+  --b-code-10: rgb(243, 204, 204);
+  --bkg-code-10: rgb(255, 239, 239);
+
+  /* --------- CASE --------- */
+
+  --c-case-1: rgb(194, 244, 240);
+  --g-case-1: linear-gradient(
+    113deg,
+    rgba(222, 255, 252, 0.7),
+    rgba(207, 254, 250, 0.7)
+  );
+
+  --c-case-2: rgb(255, 225, 193);
+  --g-case-2: linear-gradient(
+    247deg,
+    rgba(255, 240, 225, 0.7),
+    rgba(255, 238, 219, 0.7)
+  );
+
+  --c-case-4: rgb(186, 229, 151);
+  --g-case-4: linear-gradient(
+    247deg,
+    rgba(209, 231, 191, 0.7),
+    rgba(222, 254, 197, 0.7)
+  );
+
+  /* --------- CASE --------- */
+
+  --c-team-2: rgb(234, 224, 255);
+  --g-team-2: linear-gradient(310deg, rgb(204, 191, 234), rgb(198, 185, 229));
+
+  --c-team-3: rgb(216, 251, 248);
+  --g-team-3: linear-gradient(310deg, rgb(183, 235, 224), rgb(193, 242, 232));
+
+  --c-team-4: rgb(255, 224, 249);
+  --g-team-4: linear-gradient(130deg, rgb(236, 194, 229), rgb(237, 196, 230));
+
+  /* --------- APPROACH --------- */
+  --c-app-2: rgb(239, 124, 145);
+  --c-app-3: rgb(246, 162, 95);
+  --c-app-4: rgb(108, 186, 247);
+  --c-app-5: rgb(99, 213, 255);
+  --c-app-6: rgb(141, 127, 216);
+}
