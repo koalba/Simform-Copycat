@@ -1,2 +1,2 @@
 # Simform-Copycat
-Copycat of simform.com, made with HTML, SCSS and JQuery
+WIP - Copycat of simform.com, made with HTML, SCSS and JQuery
